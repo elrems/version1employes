@@ -1,4 +1,7 @@
-var serviceURL = "http://localhost/directory/services/";
+var serviceURL = '../services/';
+
+var serviceURL = 'http://capinfo11.ecritel.net/mobile/version1employes/services/';
+
 
 var employees;
 
